@@ -1,5 +1,5 @@
 # Project1 : Loading Online Event Hits using Sqoop to Hive via Shell Script
- Creating a script to automate data load in HDFS with reconciliation of data
+## Creating a script to automate data load in HDFS with reconciliation of data
  
 ![WhatsApp Image 2022-06-17 at 4 51 17 PM](https://user-images.githubusercontent.com/107996635/176878248-404c4fcd-487c-411c-9b4b-dc88a06e2ad1.jpeg)
 
