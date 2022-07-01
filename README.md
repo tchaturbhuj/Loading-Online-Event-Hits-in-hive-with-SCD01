@@ -1,5 +1,9 @@
 # Project1
  Creating a script to automate data load in HDFS with reconciliation of data
+ 
+
+![WhatsApp Image 2022-06-17 at 4 51 17 PM](https://user-images.githubusercontent.com/107996635/176876458-64cb4fa5-95d1-48fa-9721-18e701317dea.jpeg)
+
 
 
 1. At first I have written a script to automate reading of new files from archive folder and transferred data in MySQL.
